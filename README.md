@@ -1,2 +1,2 @@
-# testete
-#  3-efekty-przejscia
+# 3-efekty-przejscia
+
